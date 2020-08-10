@@ -6,7 +6,7 @@
     "minimist": "1.2.3",
     "node-fetch": "2.1.2",
     "outdent": "0.7.1",
-    "semver": "5.5.0",
+    "semver": "5.7.1",
     "string-width": "2.1.1"
   }
 }
