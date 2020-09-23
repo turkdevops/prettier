@@ -105,7 +105,8 @@ Show the world you're using _Prettier_ → [![code style: prettier](https://img.
 ```md
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 ```
-
+## TurkDevOps Prettier Dev
+![Dev](https://github.com/turkdevops/prettier/workflows/Dev/badge.svg)
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
