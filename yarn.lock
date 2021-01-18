@@ -2015,13 +2015,13 @@ ajv@^6.10.0, ajv@^6.12.4, ajv@^6.12.5, ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-angular-estree-parser@2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/angular-estree-parser/-/angular-estree-parser-2.1.0.tgz#1841b8b34b6707241f83e1247eba15611ea62d9c"
-  integrity sha512-5I9KNGlKXPXr2lmcmO9uNtyxFCm5I3mvOlgchfPjj0b03B1jiVfHmY/bqsrrmte7mHcE1wVK5LGlGaMfIdF1Yg==
+angular-estree-parser@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/angular-estree-parser/-/angular-estree-parser-2.3.0.tgz#1504d5a1b67db2a49084f952a79849a7e8dc9d5b"
+  integrity sha512-+jW3uOXSHAbDRJTpVodLhH4DhpI7Qe1NyFtemyv+MowcZXBLBF5QRwCzi1/+LWNbxjNNm8mWo7tjT9z4MUIBqg==
   dependencies:
     lines-and-columns "^1.1.6"
-    tslib "^1.9.3"
+    tslib "^2.0.3"
 
 angular-html-parser@1.7.1:
   version "1.7.1"
@@ -7084,10 +7084,10 @@ tslib@^1.10.0, tslib@^1.8.1, tslib@^1.9.0, tslib@^1.9.3:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.13.0.tgz#c881e13cc7015894ed914862d276436fa9a47043"
   integrity sha512-i/6DQjL8Xf3be4K/E6Wgpekn5Qasl1usyw++dAA35Ue5orEn65VIxOA+YvNNl9HV3qv70T7CNwjODHZrLwvd1Q==
 
-tslib@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.0.tgz#18d13fc2dce04051e20f074cc8387fd8089ce4f3"
-  integrity sha512-lTqkx847PI7xEDYJntxZH89L2/aXInsyF2luSafe/+0fHOMjlBNXdH6th7f70qxLDhul7KZK0zC8V5ZIyHl0/g==
+tslib@^2.0.0, tslib@^2.0.3:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.1.0.tgz#da60860f1c2ecaa5703ab7d39bc05b6bf988b97a"
+  integrity sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==
 
 tsutils@^3.17.1:
   version "3.17.1"
